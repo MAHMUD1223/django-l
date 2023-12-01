@@ -32,7 +32,8 @@ django-admin startproject myapp
 ```
 > [!TIP]
 > Add preiod (.) to not create new folder for it.
-Some before config on app:
+
+### Some works before starting to work on app:
 ```python
 ALLOWED_HOSTS = ['*']
 TIME_ZONE = 'Asia/Dhaka'
